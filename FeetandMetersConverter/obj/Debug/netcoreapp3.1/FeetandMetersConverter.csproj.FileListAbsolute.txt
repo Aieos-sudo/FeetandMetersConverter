@@ -12,3 +12,17 @@ C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj
 C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.dll
 C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.pdb
 C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.genruntimeconfig.cache
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.csproj.AssemblyReference.cache
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.AssemblyInfoInputs.cache
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.AssemblyInfo.cs
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.dll
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.pdb
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.exe
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.deps.json
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.runtimeconfig.json
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.runtimeconfig.dev.json
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.dll
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.pdb
+E:\Coding\GitHub\Stone-FeetAndMetersConverter\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.genruntimeconfig.cache
