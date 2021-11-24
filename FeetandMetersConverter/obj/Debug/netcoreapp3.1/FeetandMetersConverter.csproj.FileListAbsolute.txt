@@ -1,0 +1,14 @@
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.exe
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.deps.json
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.runtimeconfig.json
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.runtimeconfig.dev.json
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.dll
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\bin\Debug\netcoreapp3.1\FeetandMetersConverter.pdb
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.csproj.AssemblyReference.cache
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.AssemblyInfoInputs.cache
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.AssemblyInfo.cs
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.csproj.CoreCompileInputs.cache
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.dll
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.pdb
+C:\Users\Aieos_\Documents\code\FeetandMetersConverter\FeetandMetersConverter\obj\Debug\netcoreapp3.1\FeetandMetersConverter.genruntimeconfig.cache
